@@ -9,9 +9,9 @@ print("enter your surname: ")
 first_name = "Anastasiia"
 print(first_name)
 Surname = "Demydenko"
-Surname = first_name + ' ' + surname_
+Full_name = first_name + ' ' + surname_
 print(full_name)
 
 #string
-double_name = name*2
+double_name = first_name*2
 print(double_name)
