@@ -8,6 +8,7 @@ print("enter your Surname: ")
 surname_ = input()
 print("enter your Surname: ")
 
+
 # concatenation
 first_name_ = "Anastasiia"
 print(first_name_)
@@ -56,3 +57,4 @@ print(f'You are going to exchange {b} USD and you should spend {a*b} UAH')
 c = 20758.0368
 print(round(c,2))
 print("поточний курс складає 20758.04 грн")
+
